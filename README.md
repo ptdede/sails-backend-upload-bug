@@ -3,6 +3,11 @@
 a [Sails v1](https://sailsjs.com) application
 
 
+Fresh installation of sails js..
+
+installed using 
+# 'sails new app --no-frontend'
+
 ### Links
 
 + [Get started](https://sailsjs.com/get-started)
